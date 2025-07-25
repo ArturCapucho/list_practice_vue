@@ -15,9 +15,4 @@ npm install
 npm run dev
 ```
 
-## Screenshot
-![screenshot](https://dummyimage.com/600x300/cccccc/000000&text=Vue+To-do+List)
-
----
-
-Feito por Artur Capucho ✨
+Feito por Artur Capucho 
